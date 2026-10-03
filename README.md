@@ -151,7 +151,7 @@ Character-level modeling produces occasional spelling inconsistencies and gramma
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/CraftGPT.git
+   git clone https://github.com/akansh-j/CraftGPT.git
    cd CraftGPT
    ```
 
