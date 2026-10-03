@@ -129,8 +129,8 @@ Character-level modeling produces occasional spelling inconsistencies and gramma
 .
 ├── CraftGPT.py          # Main training script and model implementation
 ├── input.txt              # Tiny Shakespeare dataset (1.1 MB)
-├── loss_history.txt       # Training metrics (CSV format)
-├── more.txt               # Generated text samples (10,000 tokens)
+├── loss_history.txt       # Training and Validation loss
+├── more.txt               # Generated text samples (10,000 character)
 └── README.md              # This file
 ```
 
